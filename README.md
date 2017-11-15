@@ -1,12 +1,13 @@
-# Serverless Blog
+# Serverless CMS
 
-A Blog System with Serverless Aarchitecture
+A CMS  with Serverless Architecture
 
 **TODO**
 
  - [ ] Setup
  - [ ] CRUD Blog
     - [ ] Design Schema
+ - [ ] CRUD Page
  - [ ] Search API
  - [ ] Blog Admin/Settings
  - [ ] Static Publish
