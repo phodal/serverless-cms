@@ -6,6 +6,8 @@ A Blog System with Serverless Aarchitecture
 
  - [ ] Setup
  - [ ] CRUD Blog
+    - [ ] Design Schema
+ - [ ] Search API
  - [ ] Blog Admin/Settings
  - [ ] Static Publish
     - [ ] Convert Blog Model to HTML
