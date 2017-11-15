@@ -4,7 +4,7 @@ A CMS  with Serverless Architecture
 
 **TODO**
 
- - [ ] Setup
+ - [x] Setup
  - [ ] CRUD Blog
     - [ ] Design Schema
  - [ ] CRUD Page
@@ -16,3 +16,14 @@ A CMS  with Serverless Architecture
     - [ ] S3 Route
  - [ ] Comments System
 
+Schema Design
+---
+
+ - id
+ - date
+ - title
+ - category?
+ - date
+ - published: boolean
+ - slug
+ - author
