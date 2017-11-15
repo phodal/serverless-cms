@@ -15,5 +15,4 @@ A CMS  with Serverless Architecture
     - [ ] Update HTML to S3
     - [ ] S3 Route
  - [ ] Comments System
-   
 
